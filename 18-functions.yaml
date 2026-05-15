@@ -4,7 +4,7 @@
   vars:
    technologies: Devops, Linux, Shell, Ansible #string
    name: "Harika"
-   IPAddress: 442553:57377:999
+   IPAddress: "442553:57377:999"
    #dictionary==map
    tags:
     Application: payment
